@@ -1,13 +1,6 @@
-# README
-## This is the README for your extension "vscode-chai" 
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Run your test with mocha & typescript
 
-* Split the editor (`Cmd+\` on OSX or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on OSX or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (OSX) to see a list of Markdown snippets
+![tests](https://cloud.githubusercontent.com/assets/543507/12078733/717a57d6-b215-11e5-99cb-8776577a3fe2.gif)
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
-** Enjoy!**
+It should be using a [server](https://code.visualstudio.com/docs/extensions/example-language-server) instead, but hey, it's just a test
